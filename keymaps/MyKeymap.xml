@@ -7,6 +7,7 @@
     <keyboard-shortcut first-keystroke="shift alt f10" />
     <keyboard-shortcut first-keystroke="shift f5" />
   </action>
+  <action id="CopyElement" />
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
   </action>
@@ -14,4 +15,9 @@
     <mouse-shortcut keystroke="control button143" />
   </action>
   <action id="Graph.ApplyCurrentLayout" />
+  <action id="Graph.RouteEdges" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
 </keymap>
