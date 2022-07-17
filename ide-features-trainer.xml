@@ -14,6 +14,7 @@
         <entry key="collapse" value="NOT_PASSED" />
         <entry key="comment line" value="NOT_PASSED" />
         <entry key="completion with tab" value="NOT_PASSED" />
+        <entry key="completion.f.string" value="NOT_PASSED" />
         <entry key="context.actions" value="NOT_PASSED" />
         <entry key="debugging code. part i" value="NOT_PASSED" />
         <entry key="debugging code. part ii" value="NOT_PASSED" />
@@ -35,14 +36,21 @@
         <entry key="move" value="NOT_PASSED" />
         <entry key="multiple selections" value="NOT_PASSED" />
         <entry key="postfix completion" value="NOT_PASSED" />
+        <entry key="python.debug.workflow" value="NOT_PASSED" />
+        <entry key="python.onboarding" value="NOT_PASSED" />
+        <entry key="python.run.configuration" value="NOT_PASSED" />
         <entry key="recent files and locations" value="NOT_PASSED" />
         <entry key="refactoring menu" value="NOT_PASSED" />
+        <entry key="refactoring.in.place" value="NOT_PASSED" />
+        <entry key="refactoring.quick.fix" value="NOT_PASSED" />
         <entry key="refactorings in a nutshell" value="NOT_PASSED" />
         <entry key="rename" value="NOT_PASSED" />
         <entry key="search everywhere" value="NOT_PASSED" />
         <entry key="secrets of efficient navigation" value="NOT_PASSED" />
         <entry key="select" value="NOT_PASSED" />
+        <entry key="smart completion" value="NOT_PASSED" />
         <entry key="surround and unwrap" value="NOT_PASSED" />
+        <entry key="tab completion" value="NOT_PASSED" />
         <entry key="the nuts and bolts of code completion" value="NOT_PASSED" />
         <entry key="the power of code inspections" value="NOT_PASSED" />
       </map>
