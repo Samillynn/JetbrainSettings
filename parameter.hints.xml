@@ -1,9 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="JavaScript">
-        <added pattern="reply(statusOrCallback,data,headers)" />
-      </blacklist>
-    </blacklists>
-  </component>
-</application>
