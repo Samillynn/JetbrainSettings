@@ -28,6 +28,11 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="f" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="r" />
+  </action>
+  <action id="Replace" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="f5" />
@@ -36,4 +41,5 @@
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
+  <action id="UsageFiltering.ReadAccess" />
 </keymap>
